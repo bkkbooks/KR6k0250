@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0250_000.yaml, hash: 'sha256:4e6f73ab3c5a8122072ddf28ef79b153997cc282a5f55184509d68ddd9ea03da'}
-  - {seq: 1, filename: KR6k0250_001.yaml, hash: 'sha256:a1f1ee114a7005b1609c54099566ffff033cc9873698ff5b3d43262827a81c88'}
+  - {seq: 1, filename: KR6k0250_001.yaml, hash: 'sha256:80aa2c5b06474c928324a2716f60c1de869524665cbbb16ee378064827c1246a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0250_001.markers.yaml, hash: 'sha256:8fec8b368e2003ad14de7118c53f2fadf63d2c0452335c9c80bd6ab5a71df7a8'}
+  - {seq: 0, role: markers, filename: assets/KR6k0250_000.markers.yaml, hash: 'sha256:fa86ba98e3fe186112a4efeb08a467047e58873a6cb125fdebe857681bd4f2d5'}
+  - {seq: 1, role: markers, filename: assets/KR6k0250_001.markers.yaml, hash: 'sha256:2f2335ff020a750432d1dd7b4f8601972874226b5ae2896769f9c9d1ff2eae3e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -236,7 +237,4 @@ table_of_contents:
   label: 略授菩薩戒
   type: mulu
   level: 1
-hash: sha256:a436d9f0a05a995e61fcb5621ecabbd32dad3802790655d0b9c74266b7a8a281
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8ed8b3be11debe825a368e819144b66a63c7f9f7733767d989c6f15c44209950
